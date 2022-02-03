@@ -23,5 +23,8 @@
   "dependencies": {
     "http-parser-js": "^0.5.5"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "readme-md-generator": "^1.0.0"
+  }
 }
